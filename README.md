@@ -46,6 +46,10 @@ The project is divided into three core notebooks:
 
 ## Final Thoughts
 
-Our approach blends robust feature engineering with state-of-the-art modeling techniques to create a competitive recommendation engine. For detailed model configurations, evaluation metrics, and experimental insights, please refer to the full report in the Appendix.
+Our approach blends robust feature engineering with state-of-the-art modeling techniques to create a competitive recommendation engine. For further details please contact _Andri Gerber[^1]_
 
 Enjoy exploring and extending this pipeline!
+
+---
+[^1]: Email: [andri.gerber\@stud.hslu.ch](mailto:andri.gerber@stud.hslu.ch). Department of Business, Lucerne University of Applied Sciences and Arts, Lucerne, Switzerland. [HSLU](https://www.hslu.ch/en/). [ORCiD ID](https://orcid.org/0000-0002-9793-041X)..
+
